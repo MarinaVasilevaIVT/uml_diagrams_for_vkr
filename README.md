@@ -2,7 +2,7 @@
 
 ## Диаграмма вариантов использования (use case diagram)
 
-![image](https://github.com/uml_diagrams_for_vkr/diagrams/usecase)
+![image](https://github.com/uml_diagrams_for_vkr/diagrams/usecase.png)
 
 ```uml
 @startuml
@@ -35,7 +35,7 @@ rectangle "Управление жестами" {
 
 ## Диаграмма классов (classes diagram)
 
-![image](https://github.com/uml_diagrams_for_vkr/diagrams/classes)
+![image](https://github.com/uml_diagrams_for_vkr/diagrams/classes.png)
 
 ```uml
 @startuml
@@ -125,7 +125,7 @@ class MainApp:
 
 ## Диаграмма последовательности (sequence diagram)
 
-![image](https://github.com/uml_diagrams_for_vkr/diagrams/sequence)
+![image](https://github.com/uml_diagrams_for_vkr/diagrams/sequence.png)
 
 ```uml
 @startuml
@@ -170,7 +170,7 @@ deactivate MainApp
 
 ## Диаграмма состояний (state diagram)
 
-![image](https://github.com/uml_diagrams_for_vkr/diagrams/state)
+![image](https://github.com/uml_diagrams_for_vkr/diagrams/state.png)
 
 ```uml
 @startuml
@@ -202,7 +202,7 @@ Recognizing --> [*] : Аварийное отключение
 
 ## Диаграмма  деятельности (activity diagram)
 
-![image](https://github.com/uml_diagrams_for_vkr/diagrams/activity)
+![image](https://github.com/uml_diagrams_for_vkr/diagrams/activity.png)
 
 ```uml
 @startuml
