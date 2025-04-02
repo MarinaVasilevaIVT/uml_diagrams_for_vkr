@@ -2,7 +2,7 @@
 
 ## Диаграмма вариантов использования (use case diagram)
 
-![image](diagrams/usecase.png)
+![image](diagrams/usecase_new.png)
 
 ```uml
 @startuml
@@ -41,7 +41,7 @@ rectangle "Управление жестами" {
 
 ## Диаграмма классов (classes diagram)
 
-![image](diagrams/classes.png)
+![image](diagrams/classes_new.png)
 
 ```uml
 @startuml
@@ -307,7 +307,7 @@ class MainApp:
 
 ## Диаграмма последовательности (sequence diagram)
 
-![image](diagrams/sequence.png)
+![image](diagrams/sequence_new.png)
 
 ```uml
 @startuml
@@ -390,7 +390,7 @@ Recognizing --> [*] : Аварийное отключение
 
 ## Диаграмма  деятельности (activity diagram)
 
-![image](diagrams/activity.png)
+![image](diagrams/activity_new.png)
 
 ```uml
 @startuml
