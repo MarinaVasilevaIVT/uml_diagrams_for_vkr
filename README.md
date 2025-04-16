@@ -390,7 +390,7 @@ Recognizing --> [*] : Аварийное отключение
 
 ## Диаграмма  деятельности (activity diagram)
 
-![image](diagrams/activity_new.png)
+![image](diagrams/another_activity.png)
 
 ```uml
 @startuml
